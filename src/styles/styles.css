@@ -1,0 +1,123 @@
+.chat {
+  padding: 20px;
+}
+  
+.msg-usr {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: end;
+  border: 1px solid black;
+  margin: 1% 0 0 80%;
+  padding: 5px;
+  border-radius: 6px;
+  max-width: fit-content;
+}
+
+h1 {
+  padding: 10px 15px;
+  border: 2px solid black;
+  color: blueviolet;
+}
+
+.btn-input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 1%;
+  padding: 20px;
+}
+
+.btn-input button {
+  margin-top: -10px;
+  width: 25%;
+}
+
+.btn-input input {
+  flex: 1;
+}
+
+input {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+button {
+  width: 25%;
+  padding: 5px;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.atd1 {
+  border: 1px solid black;
+  margin: 20px 88% 0 0;
+  border-radius: 6px;
+  padding: 5px;
+  max-width: fit-content;
+}
+
+.atd1 h4 {
+  margin: 5px 0;
+}
+
+.atd1 p {
+  margin-right: 10px;
+}
+
+.usr1 {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: end;
+  border: 1px solid black;
+  margin: 20px  0 0 88%;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.usr1 h4 {
+  margin: 5px 0;
+}
+
+.atd2 {
+  border: 1px solid black;
+  margin: 20px 88% 0 0;
+  border-radius: 6px;
+  padding: 5px;
+  max-width: fit-content;
+}
+
+.atd2 h4 {
+  margin: 5px 0;
+}
+
+.atd2 p {
+  margin-right: 10px;
+}
+
+.usr2 {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: end;
+  border: 1px solid black;
+  margin: 20px  0 0 88%;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.usr2 h4 {
+  margin: 5px 0;
+}
